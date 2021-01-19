@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "6004fc3129052295c96497a0"
+  },
+  "nombre": "Oscar Fernando Diaz Anchay",
+  "genero": "M",
+  "fecha_nac": "13-01-1994",
+  "tipo_doc": "DNI",
+  "documento": "74777342"
+}]
